@@ -158,7 +158,6 @@
       </br>x (x in radians).</td>
     <td>tan( 0 ) is 0</td>
     </tr>
-  </thead>
 </table>
 
 # Fig 11.2
