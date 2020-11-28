@@ -109,12 +109,13 @@
 ## (Part 2 of 2.)
 
 <table>
-  <thead>
+    <thead>
     <tr>
       <th>Method</th>
       <th>Description</th>
       <th>Examples</th>
     </tr>
+    </thead>
     
     <tr rowspan="2">
     <td>min( x, y )</td>
