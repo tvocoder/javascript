@@ -93,7 +93,7 @@
   <tr rowspan="2">
   <td>log( x )</td>
   <td>Natural logarithm of x
-    </br>(base <i>e</i></td>
+    </br>(base <i>e</i>)</td>
   <td>log( 2.718282 ) is 1
     </br>log( 7.389056 ) is 2</td>
   </tr>
