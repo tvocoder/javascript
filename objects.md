@@ -105,3 +105,120 @@
     </br>max( -2.3, -12.7 ) is -2.3</td>
   </tr>
 </table>
+
+## (Part 2 of 2.)
+
+<table>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Description</th>
+      <th>Examples</th>
+    </tr>
+    
+    <tr rowspan="2">
+    <td>min( x, y )</td>
+    <td>Smaller value of x and y.</td>
+    <td>min( 2.3, 12.7 ) is 2.3
+      </br>min( -2.3, -12.7 ) is -12.7</td>
+    </tr>
+    
+    <tr rowspan="2">
+    <td>pow( x, y )</td>
+    <td>x raised to power y(x<sup>y</sup>).</td>
+    <td>pow( 2, 7 ) is 128
+      </br>pow( 9, .5 ) is 3.0</td>
+    </tr>
+    
+    <tr rowspan="2">
+    <td>round( x )</td>
+    <td>Rounds x to the closest
+      </br>integer.</td>
+    <td>round( 9.75 ) is 10
+      </br>round( 9.25 ) is 9</td>
+    </tr>
+    
+    <tr>
+    <td>sin( x )</td>
+    <td>Trigonometric sine of x
+      </br>(x in radians).</ts>
+    <td>sin( 0 ) is 0</td>
+    </tr>
+    
+    <tr rowspan="2">
+    <td>sqrt( x )</td>
+    <td>Square root of x.</td>
+    <td>sqrt( 900 > is 30)
+      </br>sqrt( 9 ) is 3</td>
+    </tr>
+    
+    <tr>
+    <td>tan( x )</td>
+    <td>Trigonometric tangent of
+      </br>x (x in radians).</td>
+    <td>tan( 0 ) is 0</td>
+    </tr>
+  </thead>
+</table>
+
+# Fig 11.2
+## Properties of the Math object.
+
+<table>
+  <thead>
+    <tr>
+      <th>Constant</th>
+      <th>Description</th>
+      <th>Value</th>
+  </thead>
+  
+  <tr>
+  <td>Math.E</td>
+  <td>Base of a natural logarithm (<i>e</i>).</td>
+  <td>Approximately 2.718</td>
+  </tr>
+  
+  <tr>
+  <td>Math.LN2</td>
+  <td>Natural logarithm of 2.</td>
+  <td>Approximately 0.693</td>
+  </tr>
+  
+  <tr>
+  <td>Math.LN10</td>
+  <td>Natural logarithm of 10.</td>
+  <td>Approximately 2.302</td>
+  </tr>
+  
+  <tr>
+  <td>Math.LOG2E</td>
+  <td>Base 2 logarithm of <i>e</i></td>
+  <td>Approximately 1.442</td>
+  </tr>
+  
+  <tr>
+  <td>Math.LOG10E</td>
+  <td>Base 10 logarithm of <i>e</i>.</td>
+  <td>Approximately 0.434</td>
+  </tr>
+  
+  <tr>
+  <td>Math.PI</td>
+  <td>&pi;&#8212;the ratio of a circle's cir-
+    </br>cumference to its diameter.</td>
+  <td>Approximately
+    </br>3.141592653589793</td>
+  </tr>
+  
+  <tr>
+  <td>Math.SQRT1_2</td>
+  <td>Square root of 0.5.</td>
+  <td>Approximately 0.707</td>
+  </tr>
+  
+  <tr>
+  <td>Math.SQRT2</td>
+  <td>Square root of 2.0.</td>
+  <td>Approximately 1.414</td>
+  </tr>
+</table>
