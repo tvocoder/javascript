@@ -142,7 +142,7 @@
     <tr>
     <td>sin( x )</td>
     <td>Trigonometric sine of x
-      </br>(x in radians).</ts>
+      </br>(x in radians).</td>
     <td>sin( 0 ) is 0</td>
     </tr>
     
