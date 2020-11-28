@@ -109,56 +109,56 @@
 ## (Part 2 of 2.)
 
 <table>
-    <thead>
-    <tr>
-      <th>Method</th>
-      <th>Description</th>
-      <th>Examples</th>
-    </tr>
-    </thead>
-    
-    <tr rowspan="2">
-    <td>min( x, y )</td>
-    <td>Smaller value of x and y.</td>
-    <td>min( 2.3, 12.7 ) is 2.3
-      </br>min( -2.3, -12.7 ) is -12.7</td>
-    </tr>
-    
-    <tr rowspan="2">
-    <td>pow( x, y )</td>
-    <td>x raised to power y(x<sup>y</sup>).</td>
-    <td>pow( 2, 7 ) is 128
-      </br>pow( 9, .5 ) is 3.0</td>
-    </tr>
-    
-    <tr rowspan="2">
-    <td>round( x )</td>
-    <td>Rounds x to the closest
-      </br>integer.</td>
-    <td>round( 9.75 ) is 10
-      </br>round( 9.25 ) is 9</td>
-    </tr>
-    
-    <tr>
-    <td>sin( x )</td>
-    <td>Trigonometric sine of x
-      </br>(x in radians).</td>
-    <td>sin( 0 ) is 0</td>
-    </tr>
-    
-    <tr rowspan="2">
-    <td>sqrt( x )</td>
-    <td>Square root of x.</td>
-    <td>sqrt( 900 > is 30)
-      </br>sqrt( 9 ) is 3</td>
-    </tr>
-    
-    <tr>
-    <td>tan( x )</td>
-    <td>Trigonometric tangent of
-      </br>x (x in radians).</td>
-    <td>tan( 0 ) is 0</td>
-    </tr>
+<thead>
+  <tr>
+    <th>Method</th>
+    <th>Description</th>
+    <th>Examples</th>
+  </tr>
+</thead>
+
+<tr rowspan="2">
+  <td>min( x, y )</td>
+  <td>Smaller value of x and y.</td>
+  <td>min( 2.3, 12.7 ) is 2.3
+    </br>min( -2.3, -12.7 ) is -12.7</td>
+</tr>
+
+<tr rowspan="2">
+  <td>pow( x, y )</td>
+  <td>x raised to power y(x<sup>y</sup>).</td>
+  <td>pow( 2, 7 ) is 128
+    </br>pow( 9, .5 ) is 3.0</td>
+</tr>
+
+<tr>
+  <td>round( x )</td>
+  <td>Rounds x to the closest
+    </br>integer.</td>
+  <td>round( 9.75 ) is 10
+    </br>round( 9.25 ) is 9</td>
+</tr>
+
+<tr>
+  <td>sin( x )</td>
+  <td>Trigonometric sine of x
+    </br>(x in radians).</td>
+  <td>sin( 0 ) is 0</td>
+</tr>
+
+<tr>
+  <td>sqrt( x )</td>
+  <td>Square root of x.</td>
+  <td>sqrt( 900 ) is 30
+    </br>sqrt( 9 ) is 3</td>
+</tr>
+
+<tr>
+  <td>tan( x )</td>
+  <td>Trigonometric tangent of
+    </br>x (x in radians).</td>
+  <td>tan( 0 ) is 0</td>
+</tr>
 </table>
 
 # Fig 11.2
