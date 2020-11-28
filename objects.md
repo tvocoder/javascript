@@ -222,3 +222,33 @@
   <td>Approximately 1.414</td>
   </tr>
 </table>
+
+# 11.3
+## String object
+
+<ul>
+  <li>Characters are the building blocks of JavaScript
+    </br>programs</li>
+  <li>Every program is composed of a sequence of
+    </br>characters groupd together meaningfully that is
+    </br>interpreted by the computer as a series of
+    </br>instructions used to accomplish a task</li>
+  <li>A string is a series of characters treated as a single
+    </br>unit</li>
+  <li>A string may include letters, digits, and various
+    </br><b>special characters</b>, such as +, -, *, /, and $</li>
+  <li>JavaScript supports <b>Unicode</b>, which represents a
+    </br>large portion of the world's languages</li>
+  <li><b>String literals</b> or <b>string constants</b> are written as a
+    </br>sequence of characters in double or single
+    </br>quotation marks</li>
+</ul>
+
+# 11.3.2
+## Methods of the String Object
+
+<ul>
+  <li>Combining strings is called <b>concatenation</b></li>
+</ul>
+
+
