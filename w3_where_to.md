@@ -89,7 +89,7 @@ document.getElementById("demo").innerHTML = "My First JavaScript";
   <p>Scripts can also be placed in external files:</p>
 </div>
 
-## ex. myScript.js
+### ex. myScript.js
 ``` js
 function myFunction() {
    document.getElementById("demo").innerHTML = "Paragraph changed.";
@@ -104,7 +104,7 @@ function myFunction() {
 </br>attribute of a <code>< script></code> tag:</p>
 </div>
 
-## ex.
+### ex.
 ``` js
 <script src="myScript.js"></script>
 ```
@@ -114,4 +114,41 @@ function myFunction() {
       </br>located.</p>
     </div>
 
+## External JavaScript Advantages
 
+<div>
+  <p>Placing scripts in external files has some advantages:</p>
+  <ul>
+    <li>It separates HTML and code</li>
+    <li>It makes HTML and JavaScript easier to read and maintain</li>
+    <li>Cached JavaScript files can speed up page loads</li>
+  </ul>
+  <p>To add several script files to one page - use several script tags:</p>
+</div>
+
+### ex.
+``` html
+<script src="myScript1.js"></script>
+<script src="myScript2.js"></script>
+```
+
+## External References
+<div>
+  <p>External scripts can be referenced with a full URL or with a path relative to the
+    </br>current web page.</p>
+  <p>This example uses a full URL to link to a script:</p>
+</div>
+
+### ex.
+``` html
+<script src="https://www.w3schools.com/js/myScript1.js"></script>
+```
+
+### ex. located in a specific folder on the current site
+``` html
+<script src="/js/myScript1.js"></script>
+```
+
+### ex. located in same folder as current page
+``` html
+<script src="myScript1.js"></script>
